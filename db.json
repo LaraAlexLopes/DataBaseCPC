@@ -1,20 +1,20 @@
 {
   "perdaProduto": [
-    {"codigoBarras": "012345698756", "dataPerda": "2023-02-03", "descricaoPerda": "Quebra"},
-    {"codigoBarras": "012345678905", "dataPerda": "2023-02-03", "descricaoPerda": "Vazamento"},
-    {"codigoBarras": "012345654705", "dataPerda": "2023-02-03", "descricaoPerda": "Vencimento"},
-    {"codigoBarras": "012123578905", "dataPerda": "2023-02-03", "descricaoPerda": "Quebra"}
+    {"id": "1","codigoBarras": "012345698756", "dataPerda": "2023-02-03", "descricaoPerda": "Quebra"},
+    {"id": "2","codigoBarras": "012345678905", "dataPerda": "2023-02-03", "descricaoPerda": "Vazamento"},
+    {"id": "3","codigoBarras": "012345654705", "dataPerda": "2023-02-03", "descricaoPerda": "Vencimento"},
+    {"id": "4","codigoBarras": "012123578905", "dataPerda": "2023-02-03", "descricaoPerda": "Quebra"}
   ],
   "cupomDesconto": [
-    {"desconto": "20%", "dataExpiração": "2023-02-03"},
-    {"desconto": "20%", "dataExpiração": "2023-02-03"},
-    {"desconto": "20%", "dataExpiração": "2023-02-03"},
-    {"desconto": "10%", "dataExpiração": "2023-02-03"}
+    {"id": "1","desconto": "20%", "dataExpiração": "2023-02-03"},
+    {"id": "2","desconto": "20%", "dataExpiração": "2023-02-03"},
+    {"id": "3","desconto": "20%", "dataExpiração": "2023-02-03"},
+    {"id": "4","desconto": "10%", "dataExpiração": "2023-02-03"}
   ],
   "classificacao": [
-    {"descricao": "Perfume"},
-    {"descricao": "Creme"},
-    {"descricao": "Sabonete"},
-    {"descricao": "Perfume"}
+    {"id": "1","descricao": "Perfume"},
+    {"id": "2","descricao": "Creme"},
+    {"id": "3","descricao": "Sabonete"},
+    {"id": "4","descricao": "Perfume"}
   ]
 }
