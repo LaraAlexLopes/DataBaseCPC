@@ -16,5 +16,11 @@
     {"id": "2","descricao": "Creme"},
     {"id": "3","descricao": "Sabonete"},
     {"id": "4","descricao": "Perfume"}
+  ], 
+  "formaPagamento":[
+    {"id":"1","tipo":"Dinheiro"},
+     {"id":"2","tipo":"Cartão Crédito"},
+     {"id":"3","tipo":"Cartão Débito"},
+     {"id":"4","tipo":"Pix"}
   ]
 }
