@@ -6,10 +6,10 @@
     {"id": "4","codigoBarras": "012123578905", "dataPerda": "2023-02-03", "descricaoPerda": "Quebra"}
   ],
   "cupomDesconto": [
-    {"id": "1","desconto": "20%", "codigo":"0000","dataExpiração": "2023-02-03"},
-    {"id": "2","desconto": "30%","codigo":"1111", "dataExpiração": "2023-03-03"},
-    {"id": "3","desconto": "40%","codigo":"2222", "dataExpiração": "2023-04-02"},
-    {"id": "4","desconto": "10%","codigo":"3333", "dataExpiração": "2023-06-07"}
+    {"id": "1","desconto": "20%", "codigo":"0000","dataExpiracao": "2023-02-03"},
+    {"id": "2","desconto": "30%","codigo":"1111", "dataExpiracao": "2023-03-03"},
+    {"id": "3","desconto": "40%","codigo":"2222", "dataExpiracao": "2023-04-02"},
+    {"id": "4","desconto": "10%","codigo":"3333", "dataExpiracao": "2023-06-07"}
   ],
   "classificacao": [
     {"id": "1","descricao": "Perfume"},
